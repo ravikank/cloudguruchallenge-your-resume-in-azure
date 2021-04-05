@@ -1,0 +1,1 @@
+# cloudguruchallenge-your-resume-in-azure
